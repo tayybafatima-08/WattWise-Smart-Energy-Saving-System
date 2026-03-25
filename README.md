@@ -29,3 +29,8 @@ It includes a modern hero section, feature highlights, pricing, testimonials, an
 |-- script.js
 `-- assets/
 ```
+## Run Locally
+
+https://watt-wise-smart-energy-saving-syste.vercel.app/
+
+
